@@ -1,57 +1,37 @@
 [
   {
-    "league_name": "LaLiga",
+    "league_name": "La Liga (España)",
+    "odds_api_sport_key": "soccer_spain_la_liga",
     "stats_api_competition_id": "140",
-    "odds_api_sport_key": "soccer_spain_la_liga"
+    "country": "Spain",
+    "enabled": true
   },
   {
-    "league_name": "LaLiga 2",
-    "stats_api_competition_id": "141",
-    "odds_api_sport_key": "soccer_spain_segunda_division"
-  },
-  {
-    "league_name": "Premier League",
+    "league_name": "Premier League (Inglaterra)",
+    "odds_api_sport_key": "soccer_epl",
     "stats_api_competition_id": "39",
-    "odds_api_sport_key": "soccer_epl"
+    "country": "England",
+    "enabled": true
   },
   {
-    "league_name": "Championship",
-    "stats_api_competition_id": "40",
-    "odds_api_sport_key": "soccer_efl_champ"
-  },
-  {
-    "league_name": "Serie A",
+    "league_name": "Serie A (Italia)",
+    "odds_api_sport_key": "soccer_italy_serie_a",
     "stats_api_competition_id": "135",
-    "odds_api_sport_key": "soccer_italy_serie_a"
+    "country": "Italy",
+    "enabled": true
   },
   {
-    "league_name": "Bundesliga",
+    "league_name": "Bundesliga (Alemania)",
+    "odds_api_sport_key": "soccer_germany_bundesliga",
     "stats_api_competition_id": "78",
-    "odds_api_sport_key": "soccer_germany_bundesliga"
+    "country": "Germany",
+    "enabled": true
   },
   {
-    "league_name": "Ligue 1",
+    "league_name": "Ligue 1 (Francia)",
+    "odds_api_sport_key": "soccer_france_ligue_one",
     "stats_api_competition_id": "61",
-    "odds_api_sport_key": "soccer_france_ligue_one"
-  },
-  {
-    "league_name": "Eredivisie",
-    "stats_api_competition_id": "88",
-    "odds_api_sport_key": "soccer_netherlands_eredivisie"
-  },
-  {
-    "league_name": "Liga MX",
-    "stats_api_competition_id": "262",
-    "odds_api_sport_key": "soccer_mexico_ligamx"
-  },
-  {
-    "league_name": "Primeira Liga",
-    "stats_api_competition_id": "94",
-    "odds_api_sport_key": "soccer_portugal_primeira_liga"
-  },
-  {
-    "league_name": "Brasileirão",
-    "stats_api_competition_id": "71",
-    "odds_api_sport_key": "soccer_brazil_campeonato"
+    "country": "France",
+    "enabled": true
   }
 ]
